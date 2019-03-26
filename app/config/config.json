@@ -1,0 +1,47 @@
+	
+{
+ 
+    "development": {
+ 
+        "username": "root",
+ 
+        "password":"Bytech@77!",
+ 
+        "database": "test_db",
+ 
+        "host": "41.72.223.198",
+ 
+        "dialect": "mysql"
+ 
+    },
+ 
+    "test": {
+ 
+        "username": "root",
+ 
+        "password":"Bytech@77!",
+ 
+        "database": "test_db",
+ 
+        "host": "41.72.223.198",
+ 
+        "dialect": "mysql"
+ 
+ 
+    },
+ 
+    "production": {
+ 
+        "username": "root",
+ 
+        "password":"Bytech@77!",
+ 
+        "database": "test_db",
+ 
+        "host": "41.72.223.198",
+ 
+        "dialect": "mysql"
+ 
+    }
+ 
+}
